@@ -11,7 +11,7 @@
     <groupId>com.sparksfly</groupId>
     <artifactId>customzation-desigh-generator-basic</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>zkl</name>
+    <name>customzation-desigh-generator-basic</name>
     <description>Demo project for Spring Boot</description>
     <properties>
         <maven.compiler.source>8</maven.compiler.source>
